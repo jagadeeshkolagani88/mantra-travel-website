@@ -93,10 +93,9 @@ travel-website/
 
 ## 👩‍💻 Developed By
 
-**Jnanitha Gotam**
+**jagadeesh kolagani**
 
-B.Tech (Computing and Data Science) 
-Sai University
+
 
 ---
 
