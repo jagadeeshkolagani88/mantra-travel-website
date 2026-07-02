@@ -4,21 +4,21 @@ window.onload = function () {
 };
 
 // Smooth Scroll for Navigation Links
-document.querySelectorAll("nav a").forEach(link => {
-    link.addEventListener("click", function (e) {
-        const href = this.getAttribute("href");
+//document.querySelectorAll("nav a").forEach(link => {
+  //  link.addEventListener("click", function (e) {
+        //const href = this.getAttribute("href");
 
         // Allow normal navigation to other HTML pages
-        if (href.endsWith(".html")) {
-            return;
-        }
+      //  if (href.endsWith(".html")) {
+        //    return;
+      //  }
 
-        e.preventDefault();
-        document.querySelector(href).scrollIntoView({
-            behavior: "smooth"
-        });
-    });
-});
+      //  e.preventDefault();
+//document.querySelector(href).scrollIntoView({
+         //   behavior: "smooth"
+    //    });
+//    });
+//});
 
 // Contact Form Validation
 const form = document.querySelector("form");
