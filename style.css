@@ -52,7 +52,7 @@ nav ul li a:hover,
 }
 
 /* Hero Section */
-.hero{
+.hero {
     background: url("hero-banner.jpg") no-repeat center center;
     background-size: cover;
     color: white;
